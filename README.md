@@ -19,8 +19,8 @@
   <p>Even more content...</p>
 </div>
 
-<h2 id="nlp-projects">NLP Projects</h2>
-<div style="width: 1000px; height: 300px; border: 3px solid black; padding: 10px; display: block; background-color: #f0f0f0; border-radius: 5px; overflow-y: auto; display: flex; flex-direction: column; align-items: center; justify-content: center;">
+<h1 style="text-align: center; id="nlp-projects">NLP Projects</h1>
+<div style="width: 1000px; height: 300px; border: 3px solid black; padding: 10px; display: block; background-color: #f0f0f0; border-radius: 5px; overflow-y: auto;">
   <h2>Sentiment analysis</h2>
   This project deals with using ML algorithms to classify data points.
   We will be using Decision trees, Linear Regression, and Random forests.
@@ -31,7 +31,7 @@
   <p>Even more content...</p>
 </div>
 
-<h2 id="dl-projects">Deep Learning Projects</h2>
+<h1 id="dl-projects">Deep Learning Projects</h1>
 <div style="width: 1000px; height: 300px; border: 3px solid black; padding: 10px; display: block; background-color: #f0f0f0; border-radius: 5px; overflow-y: auto;">
   <h2>Image detection</h2>
   This project deals with using ML algorithms to classify data points.
