@@ -21,14 +21,16 @@
 
 <h1 style="text-align: center;" id="nlp-projects">NLP Projects</h1>
 <div style="width: 900; height: 300px; border: 3px solid black; padding: 10px; display: block; background-color: #36454F; border-radius: 5px; overflow-y: auto;">
-  <h2>Sentiment analysis</h2>
-  This project deals with using ML algorithms to classify data points.
-  We will be using Decision trees, Linear Regression, and Random forests.
-  
-  <!-- Add more content here to test scrolling -->
-  <p>Deep learning algorithms</p>
-  <p>Natural Language processing</p>
-  <p>Even more content...</p>
+  <h2 style="color: #34C759;">Sentiment analysis</h2>
+  <div style="color: white;">
+    This project deals with using ML algorithms to classify data points.
+    We will be using Decision trees, Linear Regression, and Random forests.
+    
+    <!-- Add more content here to test scrolling -->
+    <p>Deep learning algorithms</p>
+    <p>Natural Language processing</p>
+    <p>Even more content...</p>
+  </div>
 </div>
 
 <h1 style="text-align: center;" id="nlp-projects">Deep Learning Projects</h1>
