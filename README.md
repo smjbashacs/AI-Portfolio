@@ -1,8 +1,8 @@
+<div style="text-align: center; margin-bottom: 20px;">
+  <h1 style="font-size: 36px; font-weight: bold; color: #2f80ed;">Machine Learning and AI Projects</h1>
+</div>
 
-
-
-
-  <div style="display: flex; justify-content: space-between; width: 100%; padding: 0 20px; gap: 10px;">
+  <div style="display: flex; justify-content: space-between; width: 100%; padding: 0 20px; gap: 10px; margin-bottom: 20px;">
   <a href="#ml-projects" style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; flex: 1; text-align: center;">ML Projects</a>
   <a href="#nlp-projects" style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; flex: 1; text-align: center;">NLP Projects</a>
   <a href="#dl-projects" style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; flex: 1; text-align: center;">Deep Learning projects</a>
