@@ -6,7 +6,7 @@
   We will be using Decision trees, Linear Regression, and Random forests.
   
   <!-- Add more content here to test scrolling -->
-  <p>Additional content to test scrolling...</p>
-  <p>More content...</p>
+  <p>Deep learning algorithms</p>
+  <p>Natural Language processing</p>
   <p>Even more content...</p>
 </div>
