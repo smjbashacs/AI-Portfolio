@@ -1,4 +1,4 @@
-<div style="background-color: #f0f0f0; padding: 20px;">
+<div style="background-color: white; padding: 20px;">
   
   <div style="display: flex; justify-content: space-between; width: 100%; padding: 0 20px; gap: 10px; margin-bottom: 20px;">
     <a href="#ml-projects" style="background-color: #98FB52; color: black; font-family: monospace; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; flex: 1; text-align: center; font-weight: bold;">Machine Learning</a>
