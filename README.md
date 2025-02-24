@@ -1,5 +1,5 @@
 
-<div style="background-color: #f2f2f2; padding: 20px;">
+<div style="background-color: #f0f0f0; padding: 20px; margin: 0; width: 100vw; position: relative; left: 0; right: 0;">
 
   <div style="text-align: center;">
     <a href="#ml-projects" style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">ML Projects</a>
@@ -45,6 +45,5 @@
       Natural Language processing
       Even more content
     </div>
-  </div>
 
 </div>
