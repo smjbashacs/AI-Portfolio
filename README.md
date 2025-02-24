@@ -1,12 +1,8 @@
-<div style="text-align: center; margin-bottom: 20px;">
-  <h1 style="font-size: 36px; font-weight: bold; color: #2f80ed;">Machine Learning and AI Projects</h1>
-</div>
-
   <div style="display: flex; justify-content: space-between; width: 100%; padding: 0 20px; gap: 10px; margin-bottom: 20px;">
-  <a href="#ml-projects" style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; flex: 1; text-align: center;">ML Projects</a>
-  <a href="#nlp-projects" style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; flex: 1; text-align: center;">NLP Projects</a>
-  <a href="#dl-projects" style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; flex: 1; text-align: center;">Deep Learning projects</a>
-  <a href="#ml-scratch" style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; flex: 1; text-align: center;">Build from scratch</a>
+  <a href="#ml-projects" style="background-color: #CFFF04; color: black; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; flex: 1; text-align: center;">ML Projects</a>
+  <a href="#nlp-projects" style="background-color: #0D74C5; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; flex: 1; text-align: center;">NLP Projects</a>
+  <a href="#dl-projects" style="background-color: #0D74C5; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; flex: 1; text-align: center;">Deep Learning projects</a>
+  <a href="#ml-scratch" style="background-color: #0D74C5; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; flex: 1; text-align: center;">Build from scratch</a>
 </div>
 
 <div style="background-color: #f0f0f0; padding: 20px;">
