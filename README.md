@@ -13,8 +13,6 @@
     <h2>Classification of IRIS Data</h2>
     This project deals with using ML algorithms to classify data points.
     We will be using Decision trees, Linear Regression, and Random forests.
-    
-    <!-- Add more content here to test scrolling -->
     <p>Deep learning algorithms</p>
     <p>Natural Language processing</p>
     <p>Even more content...</p>
@@ -26,8 +24,6 @@
     <div style="color: #FFFFFF; font-family: monospace; font-size: 16px; line-height: 1.5;">
       This project deals with using ML algorithms to classify data points.
       We will be using Decision trees, Linear Regression, and Random forests.
-      
-      <!-- Add more content here to test scrolling -->
       <p>Deep learning algorithms</p>
       <p>Natural Language processing</p>
       <p>Even more content...</p>
@@ -35,16 +31,19 @@
   </div>
   
   <h1 style="text-align: center;" id="nlp-projects">Deep Learning Projects</h1>
-  <div style="width: 900; height: 300px; border: 3px solid black; padding: 10px; display: block; background-color: #1C1C1E; border-radius: 5px; overflow-y: auto;"> 
+  <div style="width: 900; height: 300px; border: 3px solid black; padding: 10px; display: block; background-color: #222222; border-radius: 5px; overflow-y: auto;"> 
     <h2 style="color: #98FB52; font-family: monospace;">Image detection</h2>
     <div style="color: #FFFFFF; font-family: monospace; font-size: 16px; line-height: 1.5;">
       This project deals with using ML algorithms to classify data points.
       We will be using Decision trees, Linear Regression, and Random forests.
       
-      <!-- Add more content here to test scrolling -->
-      <p>Deep learning algorithms</p>
-      <p>Natural Language processing</p>
-      <p>Even more content...</p>
+      Deep learning algorithms
+      Natural Language processing
+      Even more content
+
+      Deep learning algorithms
+      Natural Language processing
+      Even more content
     </div>
   </div>
 
