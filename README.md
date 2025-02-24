@@ -1,6 +1,6 @@
 
 
-<div style="background-color: #f0f0f0; padding: 20px;">
+
 
   <div style="display: flex; justify-content: space-between; width: 100%; padding: 0 20px; gap: 10px;">
   <a href="#ml-projects" style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; flex: 1; text-align: center;">ML Projects</a>
@@ -9,7 +9,8 @@
   <a href="#ml-scratch" style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; flex: 1; text-align: center;">Build from scratch</a>
 </div>
 
-
+<div style="background-color: #f0f0f0; padding: 20px;">
+  
   <h1 style="text-align: center;" id="nlp-projects">Machine Learning Projects</h1>
   <div style="width: 900; height: 300px; border: 3px solid black; padding: 10px; display: block; background-color: #36454F; border-radius: 5px; overflow-y: auto;"> 
     <h2 style="color: #98FB52; font-family: monospace;">Classification of IRIS Data</h2>
