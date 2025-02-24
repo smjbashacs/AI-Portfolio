@@ -1,14 +1,14 @@
   <div style="display: flex; justify-content: space-between; width: 100%; padding: 0 20px; gap: 10px; margin-bottom: 20px;">
-  <a href="#ml-projects" style="background-color: #CFFF04; color: black; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; flex: 1; text-align: center;">ML Projects</a>
-  <a href="#nlp-projects" style="background-color: #0D74C5; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; flex: 1; text-align: center;">NLP Projects</a>
-  <a href="#dl-projects" style="background-color: #0D74C5; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; flex: 1; text-align: center;">Deep Learning projects</a>
-  <a href="#ml-scratch" style="background-color: #0D74C5; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; flex: 1; text-align: center;">Build from scratch</a>
+  <a href="#ml-projects" style="background-color: #CFFF04; color: black; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; flex: 1; text-align: center; font-weight: bold;">ML Projects</a>
+  <a href="#nlp-projects" style="background-color: #CFFF04; color: black; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; flex: 1; text-align: center; font-weight: bold;">NLP Projects</a>
+  <a href="#dl-projects" style="background-color: #0D74C5; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; flex: 1; text-align: center; font-weight: bold;">Deep Learning projects</a>
+  <a href="#ml-scratch" style="background-color: #0D74C5; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; flex: 1; text-align: center; font-weight: bold;">Build from scratch</a>
 </div>
 
 <div style="background-color: #f0f0f0; padding: 20px;">
   
   <h1 style="text-align: center;" id="nlp-projects">Machine Learning Projects</h1>
-  <div style="width: 900; height: 300px; border: 3px solid black; padding: 10px; display: block; background-color: #36454F; border-radius: 5px; overflow-y: auto;"> 
+  <div style="width: 900; height: 300px; border: 3px solid black; padding: 10px; display: block; background-color: #212F33; border-radius: 5px; overflow-y: auto;"> 
     <h2 style="color: #98FB52; font-family: monospace;">Classification of IRIS Data</h2>
     <div style="color: #FFFFFF; font-family: monospace; font-size: 16px; line-height: 1.5;">
       This project deals with using ML algorithms to classify data points.
@@ -20,7 +20,7 @@
   </div>
   
   <h1 style="text-align: center;" id="nlp-projects">NLP Projects</h1>
-  <div style="width: 900; height: 300px; border: 3px solid black; padding: 10px; display: block; background-color: #36454F; border-radius: 5px; overflow-y: auto;"> 
+  <div style="width: 900; height: 300px; border: 3px solid black; padding: 10px; display: block; background-color: #212F33; border-radius: 5px; overflow-y: auto;"> 
     <h2 style="color: #98FB52; font-family: monospace;">Sentiment analysis</h2>
     <div style="color: #FFFFFF; font-family: monospace; font-size: 16px; line-height: 1.5;">
       This project deals with using ML algorithms to classify data points.
