@@ -8,7 +8,7 @@
   </div>
 
 <div style="background-color: #f0f0f0; padding: 20px; margin-bottom: 40px; border-radius: 5px; border: 2px solid #159957;"> 
-  <h1 style="text-align: center; color: #ee4b2b;" id="nlp-projects">Machine Learning Projects</h1>
+  <h1 style="text-align: center; color: #420303;" id="nlp-projects">Machine Learning Projects</h1>
   
   <div style="width: 900; height: 300px; border: 3px solid black; padding: 10px; display: block; background-color: #282C35; border-radius: 5px; overflow-y: auto; margin-top: 20px;"> 
     <h2 style="color: #98FB52; font-family: monospace;">Classification of IRIS Data</h2>
