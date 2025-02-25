@@ -11,7 +11,7 @@
   <h1 style="text-align: center;" id="ml-projects">Machine Learning Projects</h1>
   
   <div style="width: 900; height: 300px; border: 3px solid black; padding: 10px; display: block; background-color: #282C35; border-radius: 5px; overflow-y: auto; margin-top: 20px;"> 
-    <div style="color: #98FB52; font-family: monospace; font-size: 24px; font-weight: bold;">Classification of IRIS Data</div>
+    <h2 style="color: #98FB52; font-family: monospace;">Classification of IRIS Data</h2>
     <div style="color: #FFFFFF; font-family: monospace; font-size: 16px; line-height: 1.5;">
       This project deals with using ML algorithms to classify data points.
       We will be using Decision trees, Linear Regression, and Random forests.
@@ -22,7 +22,7 @@
   </div>
 
   <div style="width: 900; height: 300px; border: 3px solid black; padding: 10px; display: block; background-color: #282C35; border-radius: 5px; overflow-y: auto; margin-top: 20px;"> 
-    <div style="color: #98FB52; font-family: monospace; font-size: 24px; font-weight: bold;">Regression - real estate pricing</div>
+    <h2 style="color: #98FB52; font-family: monospace;">Regression - real estate pricing</h2>
     <div style="color: #FFFFFF; font-family: monospace; font-size: 16px; line-height: 1.5;">
       This project deals with using ML algorithms to classify data points.
       We will be using Decision trees, Linear Regression, and Random forests.
