@@ -1,4 +1,4 @@
- <div style="display: flex; justify-content: space-between; width: 100%; padding: 0 20px; gap: 10px; margin-bottom: 18px; background-color: #95D5B2; border-bottom: 1px solid #ccc; border-radius: 8px">
+ <div style="display: flex; justify-content: space-between; width: 100%; padding: 0 20px; gap: 10px; margin-bottom: 18px; background-color: #8AF0BF; border-bottom: 1px solid #ccc; border-radius: 8px">
     <a href="#ml-projects" style="color: black; font-family: monospace; padding: 10px 20px; cursor: pointer; font-weight: bold;">Machine Learning</a>
     <a href="#nlp-projects" style="color: black; font-family: monospace; padding: 10px 20px; cursor: pointer; font-weight: bold;">NLP/GenAI</a>
     <a href="#dl-projects" style="color: black; font-family: monospace; padding: 10px 20px; cursor: pointer; font-weight: bold;">Deep Learning</a>
