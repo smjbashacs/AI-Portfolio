@@ -7,8 +7,8 @@
     <a href="#ml-scratch" style="background-color: #0A5BBF; color: white; font-family: monospace; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; flex: 1; text-align: center; font-weight: bold;">Build from scratch</a>
   </div>
 
-<div style="background-color: #A3AABE; padding: 0 20px; margin-bottom: 40px; border-radius: 8px; border: 2px solid black;"> 
-  <h1 style="text-align: center;" id="ml-projects">Machine Learning Projects</h1>
+<h1 style="text-align: center; color:#764cc1" id="ml-projects">Machine Learning Projects</h1>
+<div style="background-color: #E8E8FA; padding: 0 20px; margin-bottom: 40px; border-radius: 8px; border: 2px solid black;"> 
   
   <div style="width: 900; height: 300px; padding: 10px; display: block; background-color: #282C35; border-radius: 8px; overflow-y: auto; margin-bottom: 20px;"> 
     <h2 style="color: #98FB52; font-family: monospace;">Classification of IRIS Data</h2>
