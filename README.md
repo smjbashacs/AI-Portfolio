@@ -1,6 +1,6 @@
 
   
-  <div style="display: flex; justify-content: space-between; width: 100%; padding: 0 20px; gap: 10px; margin-bottom: 18px;">
+  <div style="position: sticky; top: 0; display: flex; justify-content: space-between; width: 100%; padding: 0 20px; gap: 10px; margin-bottom: 18px; background-color: white; z-index: 100;">
     <a href="#ml-projects" style="background-color: #0A5BBF; color: white; font-family: monospace; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; flex: 1; text-align: center; font-weight: bold;">Machine Learning</a>
     <a href="#nlp-projects" style="background-color: #0A5BBF; color: white; font-family: monospace; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; flex: 1; text-align: center; font-weight: bold;">NLP/GenAI</a>
     <a href="#dl-projects" style="background-color: #0A5BBF; color: white; font-family: monospace; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; flex: 1; text-align: center; font-weight: bold;">Deep Learning</a>
