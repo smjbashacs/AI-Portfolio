@@ -1,6 +1,13 @@
 
-  
-  <div style="display: flex; justify-content: space-between; width: 100%; padding: 0 20px; gap: 10px; margin-bottom: 18px; background-color: #f0f0f0; border-bottom: 1px solid #ccc;">
+<div style="display: flex; justify-content: space-between; width: 100%; padding: 0 20px; gap: 10px; margin-bottom: 18px;">
+  <button style="background-color: #35cea0; color: white; font-family: monospace; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; width: 25%; text-align: center; font-weight: bold;" onclick="location.href='#ml-projects'">Machine Learning</button>
+  <button style="background-color: #35cea0; color: white; font-family: monospace; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; width: 25%; text-align: center; font-weight: bold;" onclick="location.href='#nlp-projects'">NLP/GenAI</button>
+  <button style="background-color: #35cea0; color: white; font-family: monospace; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; width: 25%; text-align: center; font-weight: bold;" onclick="location.href='#dl-projects'">Deep Learning</button>
+  <button style="background-color: #35cea0; color: white; font-family: monospace; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; width: 25%; text-align: center; font-weight: bold;" onclick="location.href='#ml-scratch'">Build from scratch</button>
+</div>
+
+
+<div style="display: flex; justify-content: space-between; width: 100%; padding: 0 20px; gap: 10px; margin-bottom: 18px; background-color: #35cea0; border-bottom: 1px solid #ccc;">
     <a href="#ml-projects" style="color: black; font-family: monospace; padding: 10px 20px; cursor: pointer; text-decoration: none;">Machine Learning</a>
     <a href="#nlp-projects" style="color: black; font-family: monospace; padding: 10px 20px; cursor: pointer; text-decoration: none;">NLP/GenAI</a>
     <a href="#dl-projects" style="color: black; font-family: monospace; padding: 10px 20px; cursor: pointer; text-decoration: none;">Deep Learning</a>
