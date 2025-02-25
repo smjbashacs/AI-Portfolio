@@ -8,7 +8,7 @@
   </div>
 
 <h1 style="text-align: center; color:#764cc1" id="ml-projects">Machine Learning Projects</h1>
-<div style="background-color: #E8E8FA; padding: 20px; margin-bottom: 40px; border-radius: 8px; border: 2px solid black;"> 
+<div style="background-color: #E8E8FA; padding: 20px; margin-bottom: 40px; border-radius: 8px; border: 1px solid black;"> 
   
   <div style="width: 900; height: 300px; padding: 10px; display: block; background-color: #282C35; border-radius: 8px; overflow-y: auto;"> 
     <h2 style="color: #98FB52; font-family: monospace;">Classification of IRIS Data</h2>
@@ -21,7 +21,7 @@
     </div>
   </div>
   
-  </br>
+  <br />
   
   <div style="width: 900; height: 300px; padding: 10px; display: block; background-color: #282C35; border-radius: 8px; overflow-y: auto;"> 
     <h2 style="color: #98FB52; font-family: monospace;">Regression - real estate pricing</h2>
