@@ -7,7 +7,7 @@
     <a href="#ml-scratch" style="background-color: #0A5BBF; color: white; font-family: monospace; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; flex: 1; text-align: center; font-weight: bold;">Build from scratch</a>
   </div>
 
-<div style="background-color: #f0f0f0; padding: 20px; margin-bottom: 40px; border-radius: 5px; background-image: linear-gradient(to right, #155799, #159957);"> 
+<div style="background-color: #f0f0f0; padding: 20px; margin-bottom: 40px; border-radius: 5px; border: 1px solid #159957;"> 
   <h1 style="text-align: center; color: #FFFFFF; text-decoration: none !important;" id="nlp-projects">Machine Learning Projects</h1>
   
   <div style="width: 900; height: 300px; border: 3px solid black; padding: 10px; display: block; background-color: #282C35; border-radius: 5px; overflow-y: auto; margin-top: 20px;"> 
@@ -34,7 +34,7 @@
   
 </div>
 
-<div style="background-color: #f0f0f0; padding: 20px; margin-bottom: 40px; border-radius: 5px;">  
+<div style="background-color: #f0f0f0; padding: 20px; margin-bottom: 40px; border-radius: 5px; ">  
   <h1 style="text-align: center;" id="nlp-projects">NLP Projects</h1>
   
   <div style="width: 900; height: 300px; border: 3px solid black; padding: 10px; display: block; background-color: #282C35; border-radius: 5px; overflow-y: auto; margin-top: 20px;"> 
