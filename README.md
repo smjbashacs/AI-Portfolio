@@ -7,12 +7,14 @@
 </div>
 
 
-<div style="display: flex; justify-content: space-between; width: 100%; padding: 0 20px; gap: 10px; margin-bottom: 18px; background-color: #A8E4A0; border-bottom: 1px solid #ccc; border-radius: 8px">
-    <a href="#ml-projects" style="color: black; font-family: monospace; padding: 10px 20px; cursor: pointer; font-weight: bold">Machine Learning</a>
-    <a href="#nlp-projects" style="color: black; font-family: monospace; padding: 10px 20px; cursor: pointer; font-weight: bold">NLP/GenAI</a>
-    <a href="#dl-projects" style="color: black; font-family: monospace; padding: 10px 20px; cursor: pointer; font-weight: bold">Deep Learning</a>
-    <a href="#ml-scratch" style="color: black; font-family: monospace; padding: 10px 20px; cursor: pointer; font-weight: bold">Build from scratch</a>
+<div style="display: flex; justify-content: space-between; width: 100%; padding: 0 20px; gap: 10px; margin-bottom: 18px; background-color: #98FB98; border-bottom: 1px solid #ccc; border-radius: 8px">
+  <a href="#ml-projects" style="color: black; font-family: monospace; padding: 10px 20px; cursor: pointer; font-weight: bold; border-right: 1px solid #ccc;">Machine Learning</a>
+  <a href="#nlp-projects" style="color: black; font-family: monospace; padding: 10px 20px; cursor: pointer; font-weight: bold; border-right: 1px solid #ccc;">NLP/GenAI</a>
+  <a href="#dl-projects" style="color: black; font-family: monospace; padding: 10px 20px; cursor: pointer; font-weight: bold; border-right: 1px solid #ccc;">Deep Learning</a>
+  <a href="#ml-scratch" style="color: black; font-family: monospace; padding: 10px 20px; cursor: pointer; font-weight: bold;">Build from scratch</a>
 </div>
+
+<hr />
 
 <h1 style="text-align: center; color:#764cc1" id="ml-projects">Machine Learning Projects</h1>
 <div style="background-color: #E8E8FA; padding: 20px; margin-bottom: 40px; border-radius: 8px; border: 1px solid black;"> 
