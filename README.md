@@ -10,7 +10,7 @@
 <div style="background-color: #A3AABE; padding: 0 20px; margin-bottom: 40px; border-radius: 8px; border: 2px solid black;"> 
   <div style="text-align: center; font-size: 36px; font-weight: bold; margin: 20px 0; display: block;" id="ml-projects">Machine Learning Projects</div>
   
-  <div style="width: 900; height: 300px; border: 3px solid black; padding: 10px; display: block; background-color: #282C35; border-radius: 3px; overflow-y: auto; margin-bottom: 20px;"> 
+  <div style="width: 900; height: 300px; border: 2px solid black; padding: 10px; display: block; background-color: #282C35; border-radius: 8px; overflow-y: auto; margin-bottom: 20px;"> 
     <h2 style="color: #98FB52; font-family: monospace;">Classification of IRIS Data</h2>
     <div style="color: #FFFFFF; font-family: monospace; font-size: 16px; line-height: 1.5;">
       This project deals with using ML algorithms to classify data points.
@@ -21,7 +21,7 @@
     </div>
   </div>
 
-  <div style="width: 900; height: 300px; border: 3px solid black; padding: 10px; display: block; background-color: #282C35; border-radius: 3px; overflow-y: auto; margin-bottom: 20px;"> 
+  <div style="width: 900; height: 300px; border: 2px solid black; padding: 10px; display: block; background-color: #282C35; border-radius: 8px; overflow-y: auto; margin-bottom: 20px;"> 
     <h2 style="color: #98FB52; font-family: monospace;">Regression - real estate pricing</h2>
     <div style="color: #FFFFFF; font-family: monospace; font-size: 16px; line-height: 1.5;">
       This project deals with using ML algorithms to classify data points.
