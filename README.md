@@ -6,9 +6,11 @@
 </div>
 
 
-<div style="margin-top: 40px;">
-    <h1 style="text-align: center; color:#764cc1; border-bottom: 3px solid #e1e4e8" id="ml-projects">Machine Learning Projects</h1>
+<div style="margin-top: 40px; text-align: center;">
+  <img src="assets/logo site.png" alt="Logo" style="height: 20px; width: 20px; margin-right: 10px; display: inline-block;">
+  <h1 style="display: inline-block; color:#764cc1; border-bottom: 3px solid #e1e4e8;" id="ml-projects">Machine Learning Projects</h1>
 </div>
+
 
 <!-- <div style="background-color: #E8E8FA; padding: 20px 20px 0 20px; margin-bottom: 40px; border-radius: 8px; border: 1px solid black;"> -->
   
