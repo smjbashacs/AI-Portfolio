@@ -7,7 +7,7 @@
 
 
 <div style="margin-top: 40px; text-align: center;">
-  <img src="assets/Logo site.png" alt="Logo" style="height: 40px; width: 40px; margin-right: 10px; display: inline-block; vertical-align: middle;">
+  <img src="assets/Bulb logo.png" alt="Logo" style="height: 40px; width: 40px; margin-right: 10px; display: inline-block; vertical-align: middle;">
   <h1 style="display: inline-block; color:#764cc1; vertical-align: middle;" id="ml-projects">Machine Learning Projects</h1>
 </div>
 
@@ -42,8 +42,9 @@
   
 <!-- </div> -->
 
-<div style="margin-top: 40px;">
-    <h1 style="text-align: center; color:#764cc1; border-bottom: 3px solid #e1e4e8" id="nlp-projects">NLP Projects</h1>
+<div style="margin-top: 40px; text-align: center;">
+  <img src="assets/Bulb logo.png" alt="Logo" style="height: 40px; width: 40px; margin-right: 10px; display: inline-block; vertical-align: middle;">
+  <h1 style="display: inline-block; color:#764cc1; vertical-align: middle;" id="nlp-projects">NLP Projects</h1>
 </div>
 
 <div style="width: 900; padding: 10px 20px; display: block; background-color: #F7F7F7; border-radius: 8px; margin-bottom: 20px; border: 1px solid #E2E2E3; box-shadow: 0 0 5px 3px #E8E8FA"> 
@@ -58,8 +59,9 @@
 </div>
 
 
-<div style="margin-top: 40px;">
-    <h1 style="text-align: center; color:#764cc1; border-bottom: 3px solid #e1e4e8" id="dl-projects">Deep Learning Projects</h1>
+<div style="margin-top: 40px; text-align: center;">
+  <img src="assets/Bulb logo.png" alt="Logo" style="height: 40px; width: 40px; margin-right: 10px; display: inline-block; vertical-align: middle;">
+  <h1 style="display: inline-block; color:#764cc1; vertical-align: middle;" id="dl-projects">Deep Learning Projects</h1>
 </div>
 
 <div style="width: 900; padding: 10px 20px; display: block; background-color: #F7F7F7; border-radius: 8px; margin-bottom: 20px; border: 1px solid #E2E2E3; box-shadow: 0 0 5px 3px #E8E8FA"> 
