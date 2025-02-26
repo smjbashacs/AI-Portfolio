@@ -7,7 +7,8 @@
 
 
 <div style="margin-top: 40px; text-align: center;">
-  🚀 <h1 style="display: inline-block; color:#764cc1; vertical-align: middle;" id="ml-projects">Machine Learning Projects</h1>
+  <span style="font-size: 40px; display: inline-block; vertical-align: middle; margin-right: 10px;">🚀</span>
+  <h1 style="display: inline-block; color:#764cc1; vertical-align: middle;" id="ml-projects">Machine Learning Projects</h1>
 </div>
 
 
