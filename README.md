@@ -10,7 +10,7 @@
 <h1 style="text-align: center; color:#764cc1" id="ml-projects">Machine Learning Projects</h1>
 <!-- <div style="background-color: #E8E8FA; padding: 20px 20px 0 20px; margin-bottom: 40px; border-radius: 8px; border: 1px solid black;"> -->
   
-<div style="width: 900; height: 300px; padding: 10px; display: block; background-color: #F7F7F7; border-radius: 8px; overflow-y: auto; margin-bottom: 20px; border: 1px solid #E2E2E3; box-shadow: 0 0 5px 3px #E8E8FA"> 
+<div style="width: 900; padding: 10px; display: block; background-color: #F7F7F7; border-radius: 8px; margin-bottom: 20px; border: 1px solid #E2E2E3; box-shadow: 0 0 5px 3px #E8E8FA"> 
     <h2 style="color: #00949A; font-family: sans-serif">Classification of IRIS Data</h2>
     <div style="color: black;  font-family: sans-serif; font-size: 18px; line-height: 1.5;">
       This project deals with using ML algorithms to classify data points.
@@ -18,6 +18,10 @@
       <p>Deep learning algorithms</p>
       <p>Natural Language processing</p>
       <p>Even more content...</p>
+      <p>Deep learning algorithms</p>
+      <p>Natural Language processing</p>
+      <p>Even more content...</p>
+      <p>Trying this new expanded feature</p>
     </div>
 </div>
 
@@ -38,7 +42,7 @@
 
 <h1 style="text-align: center; color:#764cc1" id="nlp-projects">NLP Projects</h1>
 
-<div style="width: 900; height: 300px; padding: 10px; display: block; background-color: #F7F7F7; border-radius: 8px; margin-bottom: 20px; border: 1px solid #E2E2E3; box-shadow: 0 0 5px 3px #E8E8FA"> 
+<div style="width: 900; height: 300px; padding: 10px; display: block; background-color: #F7F7F7; border-radius: 8px; overflow-y: auto; margin-bottom: 20px; border: 1px solid #E2E2E3; box-shadow: 0 0 5px 3px #E8E8FA">  
     <h2 style="color: #00949A; font-family: sans-serif">Sentiment analysis</h2>
     <div style="color: black; font-family: sans-serif; font-size: 18px; line-height: 1.5; ">
       This project deals with using ML algorithms to classify data points.
@@ -53,9 +57,9 @@
 
 <h1 style="text-align: center; color:#764cc1" id="dl-projects">Deep Learning Projects</h1>
 
-<div style="width: 900; height: 300px; padding: 10px; display: block; background-color: #F7F7F7; border-radius: 8px; margin-bottom: 20px; border: 1px solid #E2E2E3; box-shadow: 0 0 5px 3px #E8E8FA"> 
+<div style="width: 900; padding: 10px; display: block; background-color: #F7F7F7; border-radius: 8px; margin-bottom: 20px; border: 1px solid #E2E2E3; box-shadow: 0 0 5px 3px #E8E8FA"> 
     <h2 style="color: #00949A; font-family: sans-serif">Image detection</h2>
-    <div style="color: black; font-family: sans-serif; font-size: 18px; line-height: 1.5; overflow-y: auto; ">
+    <div style="color: black; font-family: sans-serif; font-size: 18px; line-height: 1.5;">
       This project deals with using ML algorithms to classify data points.
       We will be using Decision trees, Linear Regression, and Random forests.
       <p>Deep learning algorithms</p>
