@@ -47,8 +47,6 @@
     </div>
 </div>
 
-</div>
-
 <h1 style="text-align: center; color:#764cc1" id="dl-projects">Deep Learning Projects</h1>
 
 <div style="width: 900; height: 300px; padding: 10px; display: block; background-color: #FAFAFC; border-radius: 8px; overflow-y: auto; margin-bottom: 20px; border: 1px solid #E2E2E3; box-shadow: 0 0 5px 3px #E8E8FA"> 
@@ -65,4 +63,3 @@
     </div>
 </div>
 
-</div>
