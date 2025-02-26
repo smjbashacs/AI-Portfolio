@@ -22,8 +22,8 @@
 </div>
 
 <div style="width: 900; height: 300px; padding: 10px; display: block; background-color: #FAFAFC; border-radius: 8px; overflow-y: auto; margin-bottom: 20px; border: 1px solid #E2E2E3; box-shadow: 0 0 5px 3px #E8E8FA"> 
-    <h2 style="color: #00949A; font-family: Arial">Regression - real estate pricing</h2>
-    <div style="color: black;  font-family: Arial; font-size: 18px; line-height: 1.5;">
+    <h2 style="color: #00949A; font-family: Roboto Mono; font-weight: 500">Regression - real estate pricing</h2>
+    <div style="color: black;  font-family: IBM Plex Mono; font-size: 18px; line-height: 1.5;">
       This project deals with using ML algorithms to classify data points.
       We will be using Decision trees, Linear Regression, and Random forests.
       <p>Deep learning algorithms</p>
@@ -38,7 +38,7 @@
 
 <div style="width: 900; height: 300px; padding: 10px; display: block; background-color: #FAFAFC; border-radius: 8px; overflow-y: auto; margin-bottom: 20px; border: 1px solid #E2E2E3; box-shadow: 0 0 5px 3px #E8E8FA"> 
     <h2 style="color: #00949A; font-family: Arial">Sentiment analysis</h2>
-    <div style="color: black;  font-family: Arial; font-size: 18px; line-height: 1.5;">
+    <div style="color: black; font-family: Open Sans; font-weight: 500; font-size: 18px; line-height: 1.5;">
       This project deals with using ML algorithms to classify data points.
       We will be using Decision trees, Linear Regression, and Random forests.
       <p>Deep learning algorithms</p>
@@ -51,7 +51,7 @@
 
 <div style="width: 900; height: 300px; padding: 10px; display: block; background-color: #FAFAFC; border-radius: 8px; overflow-y: auto; margin-bottom: 20px; border: 1px solid #E2E2E3; box-shadow: 0 0 5px 3px #E8E8FA"> 
     <h2 style="color: #00949A; font-family: Arial">Image detection</h2>
-    <div style="color: black;  font-family: Arial; font-size: 18px; line-height: 1.5;">
+    <div style="color: black; font-family: Montserrat; font-weight: 500; font-size: 18px; line-height: 1.5;">
       This project deals with using ML algorithms to classify data points.
       We will be using Decision trees, Linear Regression, and Random forests.
       <p>Deep learning algorithms</p>
