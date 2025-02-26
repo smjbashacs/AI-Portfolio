@@ -1,5 +1,5 @@
 <div style="display: flex; justify-content: space-between; width: 100%; padding: 0 20px; gap: 10px; margin-bottom: 18px; background-color: #4483d2; border-bottom: 1px solid #ccc; border-radius: 8px">
-    <a href="#ml-projects" style="color: white; font-family: monospace; padding: 10px 20px; cursor: pointer; font-weight: bold;">Machine Learning</a>
+    🚀 <a href="#ml-projects" style="color: white; font-family: monospace; padding: 10px 20px; cursor: pointer; font-weight: bold;">Machine Learning</a>
     <a href="#nlp-projects" style="color: white; font-family: monospace; padding: 10px 20px; cursor: pointer; font-weight: bold;">NLP/GenAI</a>
     <a href="#dl-projects" style="color: white; font-family: monospace; padding: 10px 20px; cursor: pointer; font-weight: bold;">Deep Learning</a>
     <a href="#ml-scratch" style="color: white; font-family: monospace; padding: 10px 20px; cursor: pointer; font-weight: bold;">Build from scratch</a>
