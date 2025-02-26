@@ -7,8 +7,8 @@
 
 
 <div style="margin-top: 40px; text-align: center;">
-  <img src="assets/Logo site.png" alt="Logo" style="height: 40px; width: 40px; margin-right: 10px; display: inline-block;">
-  <h1 style="display: inline-block; color:#764cc1; " id="ml-projects">Machine Learning Projects</h1>
+  <img src="assets/Logo site.png" alt="Logo" style="height: 40px; width: 40px; margin-right: 10px; display: inline-block; vertical-align: middle;">
+  <h1 style="display: inline-block; color:#764cc1; vertical-align: middle;" id="ml-projects">Machine Learning Projects</h1>
 </div>
 
 
