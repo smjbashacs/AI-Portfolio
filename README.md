@@ -1,5 +1,5 @@
 <div style="display: flex; justify-content: space-between; width: 100%; padding: 0 20px; gap: 10px; margin-bottom: 18px; background-color: #4483d2; border-bottom: 1px solid #ccc; border-radius: 8px">
-    🚀 <a href="#ml-projects" style="color: white; font-family: monospace; padding: 10px 20px; cursor: pointer; font-weight: bold;">Machine Learning</a>
+    <a href="#ml-projects" style="color: white; font-family: monospace; padding: 10px 20px; cursor: pointer; font-weight: bold;">Machine Learning</a>
     <a href="#nlp-projects" style="color: white; font-family: monospace; padding: 10px 20px; cursor: pointer; font-weight: bold;">NLP/GenAI</a>
     <a href="#dl-projects" style="color: white; font-family: monospace; padding: 10px 20px; cursor: pointer; font-weight: bold;">Deep Learning</a>
     <a href="#ml-scratch" style="color: white; font-family: monospace; padding: 10px 20px; cursor: pointer; font-weight: bold;">Build from scratch</a>
@@ -7,8 +7,7 @@
 
 
 <div style="margin-top: 40px; text-align: center;">
-  <img src="assets/Bulb logo.png" alt="Logo" style="height: 40px; width: 40px; margin-right: 10px; display: inline-block; vertical-align: middle;">
-  <h1 style="display: inline-block; color:#764cc1; vertical-align: middle;" id="ml-projects">Machine Learning Projects</h1>
+  🚀 <h1 style="display: inline-block; color:#764cc1; vertical-align: middle;" id="ml-projects">Machine Learning Projects</h1>
 </div>
 
 
