@@ -5,9 +5,9 @@
     <a href="#ml-scratch" style="color: white; font-family: monospace; padding: 10px 20px; cursor: pointer; font-weight: bold;">Build from scratch</a>
 </div>
 
-<br />
 
-<h1 style="text-align: center; color:#764cc1; border-bottom: 4px solid #e1e4e8" id="ml-projects">Machine Learning Projects</h1>
+
+<h1 style="text-align: center; color:#764cc1; border-bottom: 3px solid #e1e4e8 margin-top: 10px" id="ml-projects">Machine Learning Projects</h1>
 <!-- <div style="background-color: #E8E8FA; padding: 20px 20px 0 20px; margin-bottom: 40px; border-radius: 8px; border: 1px solid black;"> -->
   
 <div style="width: 900; padding: 10px 20px; display: block; background-color: #F7F7F7; border-radius: 8px; margin-bottom: 20px; border: 1px solid #E2E2E3; box-shadow: 0 0 5px 3px #E8E8FA"> 
