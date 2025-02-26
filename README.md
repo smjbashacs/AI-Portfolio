@@ -1,8 +1,8 @@
 <div style="display: flex; justify-content: space-between; width: 100%; padding: 0 20px; gap: 10px; margin-bottom: 18px; background-color: #484848; border-bottom: 1px solid #ccc; border-radius: 8px">
-    <a href="#ml-projects" style="color: #F4E3F4; font-family: monospace; padding: 10px 20px; cursor: pointer; font-weight: bold;">Machine Learning</a>
-    <a href="#nlp-projects" style="color: #F4E3F4; font-family: monospace; padding: 10px 20px; cursor: pointer; font-weight: bold;">NLP/GenAI</a>
-    <a href="#dl-projects" style="color: #F4E3F4; font-family: monospace; padding: 10px 20px; cursor: pointer; font-weight: bold;">Deep Learning</a>
-    <a href="#ml-scratch" style="color: #F4E3F4; font-family: monospace; padding: 10px 20px; cursor: pointer; font-weight: bold;">Build from scratch</a>
+    <a href="#ml-projects" style="color: #4de9be; font-family: monospace; padding: 10px 20px; cursor: pointer; font-weight: bold;">Machine Learning</a>
+    <a href="#nlp-projects" style="color: #4de9be; font-family: monospace; padding: 10px 20px; cursor: pointer; font-weight: bold;">NLP/GenAI</a>
+    <a href="#dl-projects" style="color: #4de9be; font-family: monospace; padding: 10px 20px; cursor: pointer; font-weight: bold;">Deep Learning</a>
+    <a href="#ml-scratch" style="color: #4de9be; font-family: monospace; padding: 10px 20px; cursor: pointer; font-weight: bold;">Build from scratch</a>
 </div>
 
 
