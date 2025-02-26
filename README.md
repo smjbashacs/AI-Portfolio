@@ -11,7 +11,7 @@
 <!-- <div style="background-color: #E8E8FA; padding: 20px 20px 0 20px; margin-bottom: 40px; border-radius: 8px; border: 1px solid black;"> -->
   
   <div style="width: 900; height: 300px; padding: 10px; display: block; background-color: #F7F7F7; border-radius: 8px; overflow-y: auto; margin-bottom: 20px; border: 1px solid #E2E2E3; box-shadow: 0 0 5px 3px #E8E8FA"> 
-    <h2 style="color: #33C7CD; font-family: Segoe UI;">Classification of IRIS Data</h2>
+    <h2 style="color: #00949A; font-family: Segoe UI;">Classification of IRIS Data</h2>
     <div style="color: black; font-family: Segoe UI; font-size: 16px; line-height: 1.5;">
       This project deals with using ML algorithms to classify data points.
       We will be using Decision trees, Linear Regression, and Random forests.
