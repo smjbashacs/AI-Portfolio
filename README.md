@@ -21,7 +21,7 @@
     </div>
   </div>
 
-  <div style="width: 900; height: 300px; padding: 10px; display: block; background-color: #FAFAF7; border-radius: 8px; overflow-y: auto; margin-bottom: 20px; border: 1px solid #E2E2E3; box-shadow: 0 0 5px 3px #E8E8FA"> 
+  <div style="width: 900; height: 300px; padding: 10px; display: block; background-color: #FAFAFC; border-radius: 8px; overflow-y: auto; margin-bottom: 20px; border: 1px solid #E2E2E3; box-shadow: 0 0 5px 3px #E8E8FA"> 
     <h2 style="color: black; font-family: monospace;">Regression - real estate pricing</h2>
     <div style="color: black; font-family: monospace; font-size: 16px; line-height: 1.5;">
       This project deals with using ML algorithms to classify data points.
