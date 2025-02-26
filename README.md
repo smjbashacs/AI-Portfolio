@@ -38,7 +38,7 @@
 
 <h1 style="text-align: center; color:#764cc1" id="nlp-projects">NLP Projects</h1>
 
-<div style="width: 900; height: 300px; padding: 10px; display: block; background-color: #F7F7F7; border-radius: 8px; overflow-y: auto; margin-bottom: 20px; border: 1px solid #E2E2E3; box-shadow: 0 0 5px 3px #E8E8FA"> 
+<div style="width: 900; height: 300px; padding: 10px; display: block; background-color: #F7F7F7; border-radius: 8px; margin-bottom: 20px; border: 1px solid #E2E2E3; box-shadow: 0 0 5px 3px #E8E8FA"> 
     <h2 style="color: #00949A; font-family: sans-serif">Sentiment analysis</h2>
     <div style="color: black; font-family: sans-serif; font-size: 18px; line-height: 1.5; ">
       This project deals with using ML algorithms to classify data points.
