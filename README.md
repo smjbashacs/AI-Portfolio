@@ -11,8 +11,10 @@
   <h1 style="display: inline-block; color:#764cc1; vertical-align: middle;" id="ml-projects">📂 Machine Learning Projects</h1> 
 </div>
 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
 <!-- <div style="background-color: #E8E8FA; padding: 20px 20px 0 20px; margin-bottom: 40px; border-radius: 8px; border: 1px solid black;"> -->
   
