@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
     <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
     <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras">
-    <div style="color: black;  font-family: sans-serif; font-size: 18px; line-height: 1.8;">
+    <div style="color: black;  font-family: sans-serif; font-size: 18px; line-height: 1.7;">
       This project deals with using ML algorithms to classify data points.
       We will be using Decision trees, Linear Regression, and Random forests.
       <p>Deep learning algorithms</p>
@@ -40,7 +40,7 @@
     <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
     <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
     <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras">
-    <div style="color: black;  font-family: sans-serif; font-size: 18px; line-height: 1.8;">
+    <div style="color: black;  font-family: sans-serif; font-size: 18px; line-height: 1.7;">
       This project deals with using ML algorithms to classify data points.
       We will be using Decision trees, Linear Regression, and Random forests.
       <p>Deep learning algorithms</p>
@@ -61,7 +61,7 @@
     <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
     <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
     <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras">
-    <div style="color: black; font-family: sans-serif; font-size: 18px; line-height: 1.8; ">
+    <div style="color: black; font-family: sans-serif; font-size: 18px; line-height: 1.7; ">
       This project deals with using ML algorithms to classify data points.
       We will be using Decision trees, Linear Regression, and Random forests.
       <p>Deep learning algorithms</p>
@@ -81,7 +81,7 @@
     <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
     <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
     <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras">
-    <div style="color: black; font-family: sans-serif; font-size: 18px; line-height: 1.8;">
+    <div style="color: black; font-family: sans-serif; font-size: 18px; line-height: 1.7;">
       This project deals with using ML algorithms to classify data points.
       We will be using Decision trees, Linear Regression, and Random forests.
       <p>Deep learning algorithms</p>
