@@ -7,7 +7,6 @@
 
 
 <div style="margin-top: 40px; text-align: center;">
-  <span style="font-size: 35px; display: inline-block; vertical-align: middle; margin-right: 10px; color: #72ddbd;">📂</span>
   <h1 style="display: inline-block; color:#764cc1; vertical-align: middle;" id="ml-projects">📂 Machine Learning Projects</h1>
 </div>
 
