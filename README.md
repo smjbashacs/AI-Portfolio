@@ -15,7 +15,7 @@
 <!-- <div style="background-color: #E8E8FA; padding: 20px 20px 0 20px; margin-bottom: 40px; border-radius: 8px; border: 1px solid black;"> -->
 
     
-<div style="width: 900; padding: 10px 20px; display: block; background-color: #F6F5F5; border-radius: 5px; margin-bottom: 20px; border: 1px solid #606060;"> 
+<div style="width: 900; padding: 10px 20px; display: block; background-color: #F6F5F5; border-radius: 5px; margin-bottom: 20px; border: 1px solid #E2E2E3; box-shadow: 0 0 8px 0px #C1C1C1"> 
     <h2 style="color: #00949A; font-family: sans-serif">Classification of IRIS Data</h2> 
     <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
     <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
@@ -34,7 +34,7 @@
     </div>
 </div>
 
-<div style="width: 900; padding: 10px 20px; display: block; background-color: #F6F5F5; border-radius: 5px; margin-bottom: 20px; border: 1px solid #606060;">
+<div style="width: 900; padding: 10px 20px; display: block; background-color: #F6F5F5; border-radius: 5px; margin-bottom: 20px; border: 1px solid #E2E2E3; box-shadow: 0 0 8px 0px #C1C1C1"> 
     <h2 style="color: #00949A; font-family: sans-serif;">Regression - real estate pricing</h2>
     <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
     <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
@@ -55,7 +55,7 @@
   <h1 style="display: inline-block; color:#764cc1; vertical-align: middle;" id="nlp-projects">📂 NLP Projects</h1>
 </div>
 
-<div style="width: 900; padding: 10px 20px; display: block; background-color: #F6F5F5; border-radius: 5px; margin-bottom: 20px; border: 1px solid #606060;">
+<div style="width: 900; padding: 10px 20px; display: block; background-color: #F6F5F5; border-radius: 5px; margin-bottom: 20px; border: 1px solid #E2E2E3; box-shadow: 0 0 8px 0px #C1C1C1"> 
     <h2 style="color: #00949A; font-family: sans-serif">Sentiment analysis</h2>
     <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
     <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
