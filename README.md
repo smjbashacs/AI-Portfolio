@@ -15,7 +15,7 @@
 <!-- <div style="background-color: #E8E8FA; padding: 20px 20px 0 20px; margin-bottom: 40px; border-radius: 8px; border: 1px solid black;"> -->
 
     
-<div style="width: 900; padding: 10px 20px; display: block; background-color: white; border-radius: 5px; margin-bottom: 20px; border: 1px solid #E2E2E3; box-shadow: 0 0 8px 0px #C1C1C1"> 
+<div style="width: 900; padding: 10px 20px; display: block; background-color: #343a40; border-radius: 5px; margin-bottom: 20px; border: 1px solid #E2E2E3;"> 
     <h2 style="color: #00949A; font-family: sans-serif">Classification of IRIS Data</h2> 
     <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
     <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
@@ -40,7 +40,7 @@
     <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
     <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
     <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras">
-    <div style="color: black;  font-family: sans-serif; font-size: 18px; line-height: 1.7;">
+    <div style="color: #343a40;  font-family: sans-serif; font-size: 18px; line-height: 1.7;">
       This project deals with using ML algorithms to classify data points.
       We will be using Decision trees, Linear Regression, and Random forests.
       <p>Deep learning algorithms</p>
