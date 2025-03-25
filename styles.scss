@@ -22,6 +22,7 @@ $body-bg : #FAF9F6;
 
 .no-anchor.listing-title a {
     font-weight: 400;
+    color: #12974b;
 }
 
 .quarto-post.image-right{
@@ -33,5 +34,10 @@ $body-bg : #FAF9F6;
 
 .about-contents {
     font-weight: 300 !important; /* Decrease font weight */
+}
+
+.about-contents h4{
+    color: #12974b;
+    font-weight: 300;
 }
 
