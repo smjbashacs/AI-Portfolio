@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Shaik Basha: Portfolio"
+  navbar:
+    right:
+      - href: projects.qmd
+        text: AI/ML Projects
+      - href: index.qmd
+        text: About me
+    
+
+format:
+  html:
+    theme:
+      light: [litera, styles.scss]
+
+    highlight-style: a11y-dark
+    mainfont: "Roboto"
+    code-copy: true
+    code-overflow: wrap
+
+
+execute:
+  freeze: auto

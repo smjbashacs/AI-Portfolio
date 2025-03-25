@@ -1,0 +1,37 @@
+/*-- scss:defaults --*/
+
+@import 'https://fonts.googleapis.com/css2?family=Roboto:wght@350&display=swap';
+//@import 'https://fonts.googleapis.com/css2?family=Roboto:wght@300;350&display=swap';
+
+
+$font-family: "Roboto", sans-serif;
+$font-family-serif: "Roboto", sans-serif;
+$body-bg : #FAF9F6;
+
+
+.navbar.navbar-expand-lg {
+    background-color: #FAF9F6;
+    //border-bottom: 1.2px solid #FFB58A;
+    border-bottom: 1.2px solid #F0AD4E;
+}
+
+
+.navbar-title{
+    font-weight: 600;
+}
+
+.no-anchor.listing-title a {
+    font-weight: 400;
+}
+
+.quarto-post.image-right{
+    
+    //border-bottom: 1px solid #19D86B;
+    //border-bottom: 1px solid #5DBECD;
+    
+}
+
+.about-contents {
+    font-weight: 300 !important; /* Decrease font weight */
+}
+
