@@ -4,11 +4,10 @@
 
 
 $font-family: "Roboto", sans-serif;
-$font-family-serif: "Roboto", sans-serif;
+$font-family-serif: "ROboto", sans-serif;
 //$body-bg : #282a2c;
 $body-bg : #212529;
 $body-color: #DEE2E6;
-//$body-color: #DDDDDD;
 
 body {
     font-size: 18px !important; // or your preferred size for dark mode
@@ -17,11 +16,21 @@ body {
 
 .navbar.navbar-expand-lg {
     background-color: #2B3035;
+    border-bottom: 0.5px solid grey;
+}
+
+.navbar .nav-link {
+  padding-top: 0.6rem;    
+  padding-bottom: 0.6rem;
 }
 
 .no-anchor.listing-title a {
     font-weight: 400;
     color: #00D49C !important;
+}
+
+.listing-description a{
+  font-weight: 300 !important;
 }
 
 h1, h2, h3, h4 {
@@ -32,12 +41,13 @@ h1, h2, h3, h4 {
   color: #7FCDEC !important;
 }
 
-:root {
-  --custom-code-bg: #222; /* Your desired background color */
+.about-contents {
+  font-weight: 300 !important; /* Decrease font weight */
 }
 
-pre, code {
-  //background-color: var(--custom-code-bg) !important;
+.about-contents h4{
+  color: #00D49C !important;
+  font-weight: 300;
 }
 
 .cell-output {
