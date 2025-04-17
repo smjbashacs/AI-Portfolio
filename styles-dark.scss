@@ -1,0 +1,45 @@
+/*-- scss:defaults --*/
+@import 'https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap';
+//@import 'https://fonts.googleapis.com/css2?family=Roboto:wght@300;350&display=swap';
+
+
+$font-family: "Roboto", sans-serif;
+$font-family-serif: "Roboto", sans-serif;
+//$body-bg : #282a2c;
+$body-bg : #212529;
+$body-color: #DEE2E6;
+//$body-color: #DDDDDD;
+
+body {
+    font-size: 18px !important; // or your preferred size for dark mode
+    font-weight: 300 !important;
+  }
+
+.navbar.navbar-expand-lg {
+    background-color: #2B3035;
+}
+
+.no-anchor.listing-title a {
+    font-weight: 400;
+    color: #00D49C !important;
+}
+
+h1, h2, h3, h4 {
+  color: #7FCDEC !important;
+}
+
+.quarto-title h1 {
+  color: #7FCDEC !important;
+}
+
+:root {
+  --custom-code-bg: #222; /* Your desired background color */
+}
+
+pre, code {
+  //background-color: var(--custom-code-bg) !important;
+}
+
+.cell-output {
+  color: #91A7FF !important; /* Replace with your desired color */
+}

@@ -11,18 +11,30 @@ $body-bg : #FAF9F6;
 
 .navbar.navbar-expand-lg {
     background-color: #FAF9F6;
-    //border-bottom: 1.2px solid #FFB58A;
-    border-bottom: 1.2px solid #F0AD4E;
 }
 
 
+.navbar .nav-link {
+    //color: #FAF9F6; /* Text color */
+    font-weight: 500 !important;
+    padding: 10px 15px; /* Add padding for better spacing */
+}
+
+
+.navbar{
+    height: 62px;
+    
+}
+
 .navbar-title{
     font-weight: 600;
+    //color :#FAF9F6
 }
 
 .no-anchor.listing-title a {
     font-weight: 400;
     color: #12974b;
+    //color: #097F5F;
 }
 
 .quarto-post.image-right{
@@ -33,11 +45,16 @@ $body-bg : #FAF9F6;
 }
 
 .about-contents {
-    font-weight: 300 !important; /* Decrease font weight */
+    //font-weight: 300 !important; /* Decrease font weight */
 }
 
 .about-contents h4{
-    color: #12974b;
-    font-weight: 300;
+    color: #12974b !important;
+    //font-weight: 300;
 }
 
+
+
+  h1, h2, h3, h4 {
+    color: #486785 !important;
+  }
