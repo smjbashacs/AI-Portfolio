@@ -5,31 +5,28 @@
 
 
 $font-family: "Roboto", sans-serif;
-$font-family-serif: "Roboto", sans-serif;
+$font-family-serif: "Roboto", sans-serif; 
 $body-bg : #FAF9F6;
-
 
 .navbar.navbar-expand-lg {
     background-color: #FAF9F6;
+    border-bottom: 1.5px solid lightgrey;
 }
-
 
 .navbar .nav-link {
     //color: #FAF9F6; /* Text color */
     font-weight: 500 !important;
-    padding: 10px 15px; /* Add padding for better spacing */
 }
-
-
-.navbar{
-    height: 62px;
-    
-}
-
 .navbar-title{
     font-weight: 600;
     //color :#FAF9F6
 }
+
+.navbar {
+    padding-top: 0.4rem;
+    padding-bottom: 0.4rem;
+}
+
 
 .no-anchor.listing-title a {
     font-weight: 400;
@@ -38,23 +35,19 @@ $body-bg : #FAF9F6;
 }
 
 .quarto-post.image-right{
-    
     //border-bottom: 1px solid #19D86B;
-    //border-bottom: 1px solid #5DBECD;
-    
+    //border-bottom: 1px solid #5DBECD; 
+}
+
+h1, h2, h3, h4 {
+  color: #486785 !important;
 }
 
 .about-contents {
-    //font-weight: 300 !important; /* Decrease font weight */
+    font-weight: 300 !important; /* Decrease font weight */
 }
 
-.about-contents h4{
+ .about-contents h4 {
     color: #12974b !important;
-    //font-weight: 300;
-}
-
-
-
-  h1, h2, h3, h4 {
-    color: #486785 !important;
+    font-weight: 300;
   }
