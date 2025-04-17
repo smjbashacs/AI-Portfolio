@@ -14,6 +14,11 @@ body {
     font-weight: 300 !important;
   }
 
+.navbar {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+
 .navbar.navbar-expand-lg {
     background-color: #2B3035;
     border-bottom: 0.5px solid grey;
@@ -49,7 +54,4 @@ h1, h2, h3, h4 {
   color: #91A7FF !important; /* Replace with your desired color */
 }
 
-.navbar {
-    padding-top: 0.5rem;
-    padding-bottom: 0.5rem;
-}
+
