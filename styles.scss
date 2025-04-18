@@ -1,10 +1,11 @@
 /*-- scss:defaults --*/
 
-@import 'https://fonts.googleapis.com/css2?family=Inter:wght@300;350;400;500;&display=swap';
+//@import 'https://fonts.googleapis.com/css2?family=Roboto:wght@350&display=swap';
+@import 'https://fonts.googleapis.com/css2?family=Inter:wght@300;350;400;500&display=swap';
+
 
 $font-family: "Inter", sans-serif;
-$font-family-serif: "Inter", sans-serif;
-
+$font-family-serif: "Inter", sans-serif; 
 $body-bg : #FAF9F6;
 
 .navbar.navbar-expand-lg {
@@ -14,11 +15,10 @@ $body-bg : #FAF9F6;
 
 .navbar .nav-link {
     //color: #FAF9F6; /* Text color */
-    //font-weight: 500 !important;
+    font-weight: 400 !important;
 }
-
 .navbar-title{
-    //font-weight: 500;
+    font-weight: 500;
     //color :#FAF9F6
 }
 
@@ -39,7 +39,7 @@ h1, h2, h3, h4 {
 }
 
 .about-contents {
-    font-weight: 300 !important; /* Decrease font weight */
+    //font-weight: 300 !important; /* Decrease font weight */
 }
 
  .about-contents h4 {
