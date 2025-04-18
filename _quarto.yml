@@ -21,7 +21,7 @@ format:
       dark: [darkly, styles-dark.scss]
 
     highlight-style: a11y-dark
-    mainfont: "Roboto"
+    mainfont: "Inter"
     code-copy: true
     code-overflow: wrap
 
