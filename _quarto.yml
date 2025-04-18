@@ -24,6 +24,7 @@ format:
     mainfont: "Inter"
     code-copy: true
     code-overflow: wrap
+    linestretch: 1.6
 
 
 execute:
