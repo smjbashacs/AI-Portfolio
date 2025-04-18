@@ -1,13 +1,12 @@
 /*-- scss:defaults --*/
+//@import 'https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap';
+@import 'https://fonts.googleapis.com/css2?family=Inter:wght@300;350;400;500&display=swap';
 
-@import 'https://fonts.googleapis.com/css2?family=Inter:wght@300;350;400;500;&display=swap';
 
 $font-family: "Inter", sans-serif;
 $font-family-serif: "Inter", sans-serif;
-
+//$body-bg : #282a2c;
 $body-bg : #212529;
-//$body-bg : #202225;
-//$body-bg : #282a2c; //Least preferred
 $body-color: #DEE2E6;
 
 body {
@@ -25,6 +24,13 @@ body {
     border-bottom: 0.5px solid grey;
 }
 
+.navbar .nav-link {
+  font-weight: 400 !important;
+}
+.navbar-title{
+  font-weight: 400 !important;
+}
+
 .no-anchor.listing-title a {
     font-weight: 400;
     color: #00D49C !important;
@@ -36,16 +42,16 @@ body {
 
 h1, h2, h3, h4 {
   color: #7FCDEC !important;
-  font-weight: 500 !important;
+  font-weight: 400 !important;
 }
 
 .quarto-title h1 {
   color: #7FCDEC !important;
-  font-weight: 500 !important;
+  font-weight: 400 !important;
 }
 
 .about-contents {
-  font-weight: 300 !important; /* Decrease font weight */
+  //font-weight: 300 !important; /* Decrease font weight */
 }
 
 .about-contents h4{
@@ -56,5 +62,4 @@ h1, h2, h3, h4 {
 .cell-output {
   color: #91A7FF !important; /* Replace with your desired color */
 }
-
 
