@@ -7,9 +7,10 @@
 $font-family: "Inter", sans-serif;
 $font-family-serif: "Inter", sans-serif; 
 $body-bg : #FAF9F6;
-$body-color: #374151;
+//$body-color: #374151; // Good for FFF background
 
 body {
+    font-weight : 400 !important;
     font-size: 18px !important; 
   }
 
