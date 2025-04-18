@@ -6,7 +6,12 @@
 
 $font-family: "Inter", sans-serif;
 $font-family-serif: "Inter", sans-serif; 
-$body-bg : #FAF9F6;
+//$body-bg : #FAF9F6;
+$body-gb: #374151
+
+body {
+    font-size: 18px !important; 
+  }
 
 .navbar.navbar-expand-lg {
     background-color: #FAF9F6;
