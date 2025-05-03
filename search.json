@@ -1,10 +1,17 @@
 [
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "AI/ML Projects",
+    "objectID": "aiml-posts/post5.html",
+    "href": "aiml-posts/post5.html",
+    "title": "Image Segmentation",
     "section": "",
-    "text": "Welcome to my projects page! Here are some of the projects I’ve worked on:  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRegression - Real Estate Pricing\n\n\n\n\n\n\nML\n\n\n\n\n\n\n\n\n\nMar 5, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nText Generation\n\n\n\n\n\n\nNLP\n\n\nDL\n\n\n\n\n\n\n\n\n\nMar 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nSentiment analysis\n\n\n\n\n\n\nNLP\n\n\nML\n\n\n\n\n\n\n\n\n\nMar 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nClassification of IRIS Data\n\n\n\n\n\n\nML\n\n\n\n\n\n\n\n\n\nMar 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nImage Segmentation\n\n\n\n\n\n\nDL\n\n\nCV\n\n\n\n\n\n\n\n\n\nMar 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nImage detection\n\n\n\n\n\n\nDL\n\n\nCV\n\n\n\n\n\n\n\n\n\nMar 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nRegression - real estate pricing\n\n\n\n\n\n\nML\n\n\n\n\n\n\n\n\n\nMar 1, 2025\n\n\n\n\n\n\nNo matching items"
+    "text": "This project deals with using ML algorithms to classify data points. We will be using Decision trees, Linear Regression, and Random forests. Deep learning algorithms\nDeep learning algorithms\nNatural Language processing\ntest the content"
+  },
+  {
+    "objectID": "aiml-posts/post1.html",
+    "href": "aiml-posts/post1.html",
+    "title": "Classification of IRIS Data",
+    "section": "",
+    "text": "This project deals with using ML algorithms to classify data points. We will be using Decision trees, Linear Regression, and Random forests. Deep learning algorithms. And also here I want to explore different projects related to MLP, text generation and Generative AI models, which are quite crucial for current world. I will like to share all these projects on open source.\nNatural Language processing\nEven more content…\nDeep learning algorithms\nNatural Language processing\nEven more content…\nTrying this new expanded feature"
   },
   {
     "objectID": "aiml-posts/Text generation/logisticregression.html",
@@ -49,18 +56,11 @@
     "text": "Plot the model alongside the data\nWe will draw a gray line to show the cutoff between the positive and negative regions. In other words, the gray line marks the line where \\[ z = \\theta * x = 0.\\] To draw this line, we have to solve the above equation in terms of one of the independent variables.\n\\[ z = \\theta * x = 0\\] \\[ x = [1, pos, neg] \\] \\[ z(\\theta, x) = \\theta_0+ \\theta_1 * pos + \\theta_2 * neg = 0 \\] \\[ neg = (-\\theta_0 - \\theta_1 * pos) / \\theta_2 \\]\nThe red and green lines that point in the direction of the corresponding sentiment are calculated using a perpendicular line to the separation line calculated in the previous equations (neg function). It must point in the same direction as the derivative of the Logit function, but the magnitude may differ. It is only for a visual representation of the model.\n\\[direction = pos * \\theta_2 / \\theta_1\\]\n\n# Equation for the separation plane\n# It give a value in the negative axe as a function of a positive value\n# f(pos, neg, W) = w0 + w1 * pos + w2 * neg = 0\n# s(pos, W) = (-w0 - w1 * pos) / w2\ndef neg(theta, pos):\n    return (-theta[0] - pos * theta[1]) / theta[2]\n\n# Equation for the direction of the sentiments change\n# We don't care about the magnitude of the change. We are only interested \n# in the direction. So this direction is just a perpendicular function to the \n# separation plane\n# df(pos, W) = pos * w2 / w1\ndef direction(theta, pos):\n    return pos * theta[2] / theta[1]\n\nThe green line in the chart points in the direction where z &gt; 0 and the red line points in the direction where z &lt; 0. The direction of these lines are given by the weights \\(\\theta_1\\) and \\(\\theta_2\\)\n\n# Plot the samples using columns 1 and 2 of the matrix\nfig, ax = plt.subplots(figsize = (8, 8))\n\ncolors = ['red', 'green']\n\n# Color base on the sentiment Y\nax.scatter(X[:,1], X[:,2], c=[colors[int(k)] for k in Y], s = 0.1)  # Plot a dot for each pair of words\nplt.xlabel(\"Positive\")\nplt.ylabel(\"Negative\")\n\n# Now lets represent the logistic regression model in this chart. \nmaxpos = np.max(X[:,1])\n\noffset = 5000 # The pos value for the direction vectors origin\n\n# Plot a gray line that divides the 2 areas.\nax.plot([0,  maxpos], [neg(theta, 0),   neg(theta, maxpos)], color = 'gray') \n\n# Plot a green line pointing to the positive direction\nax.arrow(offset, neg(theta, offset), offset, direction(theta, offset), head_width=500, head_length=500, fc='g', ec='g')\n# Plot a red line pointing to the negative direction\nax.arrow(offset, neg(theta, offset), -offset, -direction(theta, offset), head_width=500, head_length=500, fc='r', ec='r')\n\nplt.show()\n\n\n\n\n\n\n\n\nNote that more critical than the Logistic regression itself, are the features extracted from tweets that allow getting the right results in this exercise.\nThat is all, folks. Hopefully, now you understand better what the Logistic regression model represents, and why it works that well for this specific problem."
   },
   {
-    "objectID": "aiml-posts/post5.html",
-    "href": "aiml-posts/post5.html",
-    "title": "Image Segmentation",
+    "objectID": "aiml-posts/post4.html",
+    "href": "aiml-posts/post4.html",
+    "title": "Image detection",
     "section": "",
-    "text": "This project deals with using ML algorithms to classify data points. We will be using Decision trees, Linear Regression, and Random forests. Deep learning algorithms\nDeep learning algorithms\nNatural Language processing\ntest the content"
-  },
-  {
-    "objectID": "aiml-posts/post3.html",
-    "href": "aiml-posts/post3.html",
-    "title": "Sentiment analysis",
-    "section": "",
-    "text": "This project deals with using ML algorithms to classify data points.\nWe will be using Decision trees, Linear Regression, and Random forests. Deep learning algorithms\nNatural Language processing\nEven more content…"
+    "text": "This project deals with using ML algorithms to classify data points. We will be using Decision trees, Linear Regression, and Random forests. Deep learning algorithms\nNatural Language processing\nEven more content…\nDeep learning algorithms\nNatural Language processing\nEven more content…"
   },
   {
     "objectID": "index.html",
@@ -70,25 +70,18 @@
     "text": "Shaik Basha is a Senior Software Engineer, with extensive experience across multiple domains of Software Engineering like Machine Learning, Software Development, QA Automation, and DevOps\n\nEducation\nIIT Gandhinagar | Gujarat, India  M.Tech in Computer Science | Aug 2019 - June 2021\nRVR & JC College of Engineering | Andhra Pradesh, India B.Tech in Computer Science | Oct 2010 - April 2014\n\n\nExperience\nMorgan Stanley | Manager (Software Engineering) | July 2021 - Dec 2023\nNCR Corporation | PS Quality Engineer 2 | Sept 2018 - July 2019\nInfosys Limited | SDET (QA AUtomation) | May 2014 - Sept 2018"
   },
   {
-    "objectID": "aiml-posts/post6.html",
-    "href": "aiml-posts/post6.html",
-    "title": "Text Generation",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "AI/ML Projects",
     "section": "",
-    "text": "This project deals with using ML algorithms to classify data points. We will be using Decision trees, Linear Regression, and Random forests. Deep learning algorithms\nNatural Language processing\nEven more content…\nDeep learning algorithms\nNatural Language processing"
+    "text": "Under Construction. Below are some dummy projects used for website design  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRegression - Real Estate Pricing\n\n\n\nML\n\n\n\n\n\n\n\n\n\nMar 5, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nImage detection\n\n\n\nDL\n\nCV\n\n\n\n\n\n\n\n\n\nMar 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nSentiment analysis\n\n\n\nNLP\n\nML\n\n\n\n\n\n\n\n\n\nMar 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nRegression - real estate pricing\n\n\n\nML\n\n\n\n\n\n\n\n\n\nMar 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nClassification of IRIS Data\n\n\n\nML\n\n\n\n\n\n\n\n\n\nMar 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nText Generation\n\n\n\nNLP\n\nDL\n\n\n\n\n\n\n\n\n\nMar 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nImage Segmentation\n\n\n\nDL\n\nCV\n\n\n\n\n\n\n\n\n\nMar 1, 2025\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "aiml-posts/post1.html",
-    "href": "aiml-posts/post1.html",
-    "title": "Classification of IRIS Data",
+    "objectID": "aiml-posts/post3.html",
+    "href": "aiml-posts/post3.html",
+    "title": "Sentiment analysis",
     "section": "",
-    "text": "This project deals with using ML algorithms to classify data points. We will be using Decision trees, Linear Regression, and Random forests. Deep learning algorithms. And also here I want to explore different projects related to MLP, text generation and Generative AI models, which are quite crucial for current world. I will like to share all these projects on open source.\nNatural Language processing\nEven more content…\nDeep learning algorithms\nNatural Language processing\nEven more content…\nTrying this new expanded feature"
-  },
-  {
-    "objectID": "aiml-posts/post4.html",
-    "href": "aiml-posts/post4.html",
-    "title": "Image detection",
-    "section": "",
-    "text": "This project deals with using ML algorithms to classify data points. We will be using Decision trees, Linear Regression, and Random forests. Deep learning algorithms\nNatural Language processing\nEven more content…\nDeep learning algorithms\nNatural Language processing\nEven more content…"
+    "text": "This project deals with using ML algorithms to classify data points.\nWe will be using Decision trees, Linear Regression, and Random forests. Deep learning algorithms\nNatural Language processing\nEven more content…"
   },
   {
     "objectID": "aiml-posts/post2.html",
@@ -96,5 +89,12 @@
     "title": "Regression - real estate pricing",
     "section": "",
     "text": "This project deals with using ML algorithms to classify data points. We will be using Decision trees, Linear Regression, and Random forests. Deep learning algorithms\nNatural Language processing\nEven more content…"
+  },
+  {
+    "objectID": "aiml-posts/post6.html",
+    "href": "aiml-posts/post6.html",
+    "title": "Text Generation",
+    "section": "",
+    "text": "This project deals with using ML algorithms to classify data points. We will be using Decision trees, Linear Regression, and Random forests. Deep learning algorithms\nNatural Language processing\nEven more content…\nDeep learning algorithms\nNatural Language processing"
   }
 ]
