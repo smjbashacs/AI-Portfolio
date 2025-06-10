@@ -20,7 +20,7 @@ format:
       #dark: [pulse, styles-dark.scss]
 
     highlight-style: a11y-dark
-    #mainfont: "Inter"
+    mainfont: "Public Sans"
     code-copy: true
     code-overflow: wrap
     linestretch: 1.6
