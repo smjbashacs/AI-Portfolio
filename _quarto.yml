@@ -7,20 +7,22 @@ project:
 website:
   title: "Shaik Basha: Portfolio"
   navbar:
+    pinned: true
     right:
       - href: projects.qmd
         text: AI/ML PROJECTS
       - href: index.qmd
         text: ABOUT
+      
 
 format:
   html:
     theme:
-      light: [simplex, styles.scss]
-      #dark: [pulse, styles-dark.scss]
+      light: [litera, styles.scss]
+      #dark: [simplex, styles-dark.scss]
 
     highlight-style: a11y-dark
-    mainfont: "Inter"
+    mainfont: "Public Sans"
     code-copy: true
     code-overflow: wrap
     linestretch: 1.6
