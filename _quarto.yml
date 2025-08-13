@@ -22,7 +22,7 @@ format:
       #dark: [simplex, styles-dark.scss]
 
     highlight-style: a11y-dark
-    mainfont: "Roboto"
+    mainfont: "Merriweather"
     code-copy: true
     code-overflow: wrap
     linestretch: 1.6
