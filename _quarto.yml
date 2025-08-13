@@ -25,7 +25,7 @@ format:
     mainfont: "Merriweather"
     code-copy: true
     code-overflow: wrap
-    linestretch: 1.8
+    linestretch: 1.9
 
 
 execute:
