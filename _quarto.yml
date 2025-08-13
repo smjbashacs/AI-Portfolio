@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
   preview:
-    port: 7777
+    port: 7778
 
 website:
   title: "Shaik Basha: Portfolio"
@@ -25,7 +25,7 @@ format:
     mainfont: "Merriweather"
     code-copy: true
     code-overflow: wrap
-    linestretch: 1.6
+    linestretch: 1.8
 
 
 execute:
