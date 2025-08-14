@@ -22,10 +22,10 @@ format:
       #dark: [simplex, styles-dark.scss]
 
     highlight-style: a11y-dark
-    mainfont: "Merriweather"
+    mainfont: "Inter"
     code-copy: true
     code-overflow: wrap
-    linestretch: 1.9
+    linestretch: 1.7
 
 
 execute:
