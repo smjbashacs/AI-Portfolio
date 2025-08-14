@@ -1,51 +1,58 @@
 /*-- scss:defaults --*/
 
 
-//@import 'https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;500;600;700&display=swap';
-@import 'https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;500;600;700&family=Nunito:wght@400;500;600;700&display=swap';
-$font-family: "Merriweather", sans-serif;
-$font-family-serif: "Merriweather", sans-serif;
-$font-family-heading: "Nunito", sans-serif;
+@import 'https://fonts.googleapis.com/css2?family=Inter:wght@300;350;400;450;500;600;700&display=swap';
 
-$body-color: #343A40;
+$font-family: "Inter", sans-serif;
+$font-family-serif: "Inter", sans-serif;
+
+
+//$body-color: #343A40;
+$body-color: #111C24;
 
 body {
-  //background-color: #FFF !important;
-  font-size: 17px !important;
+  background-color: #F7F7FA !important;
+  font-weight: 350 !important;
+  font-size: 18px !important;
   //font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !important;
 }
 
 .navbar {
-    padding-top: 0.6rem !important;
-    padding-bottom: 0.6rem !important;
+    padding-top: 0.7rem !important;
+    padding-bottom: 0.7rem !important;
     font-family: inherit !important; // Inherit from body
-    box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.12)
+    box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.12);
+    background-color: #F7F7FA !important;
 }
 
 .navbar .nav-link {
   font-weight: 400 !important;
-  //font-family: inherit !important;
+  font-family: inherit !important;
   font-size: 18px;
 }
 
 .navbar .nav-link.active{
-    font-weight: 600 !important;
+    font-weight: 500 !important;
     //color: #12974b !important;
-    color: #486785 !important;
+    //color: #5265bb !important;
 }
 
 .navbar-title {
-  font-weight: 500 !important;
+  font-weight: 500;
   font-family: inherit !important;
-  font-size: 22px !important;
-
 }
 
 .no-anchor.listing-title a {
-  font-weight: 500;
-  color: #12974b;
+  //color: #12974b;
+  font-weight: 350;
+  //font-size: 22px;
+  color: #111C24;
   
-  font-family: $font-family-heading !important;
+  font-family: inherit !important;
+}
+
+.listing-description a{
+  font-weight: 350 !important;
 }
 
 .quarto-post.image-right {
@@ -54,9 +61,11 @@ body {
 }
 
 h1, h2, h3, h4 {
-  color: #486785 !important;
-  font-weight: 500 !important;
-  font-family: $font-family-heading !important;
+  //color: #111C24 !important;
+  //color: #5265bb !important;
+  color: #2E579E !important;
+  font-weight: 350 !important;
+  font-family: inherit !important;
 }
 
 .about-contents {
@@ -65,7 +74,7 @@ h1, h2, h3, h4 {
 }
 
 .about-contents h4 {
-  color: #12974b !important;
+  color: #2E579E !important;
   font-weight: 500 !important;
-  font-family: $font-family-heading !important;
+  font-family: inherit !important;
 }
