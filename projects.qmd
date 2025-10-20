@@ -1,5 +1,6 @@
 ---
 title: "AI/ML Projects"
+subtitle: Under Construction. Below are some dummy projects used for website design
 format:
   html:
     css: styles.scss
@@ -10,9 +11,5 @@ listing:
   categories: true
   
 page-layout: full
-#title-block-banner: true
+title-block-banner: true
 ---
-
-Under Construction. Below are some dummy projects used for website design
-<br>
-<br>
