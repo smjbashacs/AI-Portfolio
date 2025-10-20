@@ -18,14 +18,14 @@ website:
 format:
   html:
     theme:
-      light: [litera, styles.scss]
+      light: [cosmo, styles.scss]
       #dark: [simplex, styles-dark.scss]
 
     highlight-style: a11y-dark
-    mainfont: "Inter"
+    #mainfont: "Atkinson Hyperlegible"
     code-copy: true
     code-overflow: wrap
-    linestretch: 1.6
+    #linestretch: 1.6
 
 
 execute:
