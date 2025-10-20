@@ -1,91 +1,30 @@
 /*-- scss:defaults --*/
-
-/*
-@import 'https://fonts.googleapis.com/css2?family=Inter:wght@300;350;400;450;500;600;700&display=swap';
-@import 'https://fonts.googleapis.com/css2?family=Merriweather:wght@300;350;400;450;500;600;700&display=swap';
-
-$font-family: "Inter", sans-serif;
-$font-family-serif: "Inter", sans-serif;
-$font-family-heading: "Merriweather", sans-serif;
-*/
-
-@import 'https://fonts.googleapis.com/css2?family=Source+Serif+4:wght@300;350;400;450;500;600;700&display=swap';
-@import 'https://fonts.googleapis.com/css2?family=Inter:wght@300;350;400;450;500;600;700&display=swap';
-
-$font-family: "Source Serif 4", sans-serif;
-$font-family-serif: "Source Serif 4", sans-serif;
-$font-family-heading: "Inter", sans-serif;
-
-$body-color: #343A40;
-//$body-color: #111C24;
-
 body {
-  //font-weight: 400 !important;
-  font-size: 18px !important;
-  font-family: $font-family !important;
-  //font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !important;
+  font-size: 17.5px !important;
 }
 
 .navbar {
-    padding-top: 0.8rem !important;
-    padding-bottom: 0.8rem !important;
-    font-family: inherit !important; // Inherit from body
-    box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.12);
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+    border-bottom: 1px solid #dee2e6 !important;
 }
 
 .navbar .nav-link {
-  font-weight: 400 !important;
-  font-family: $font-family-heading !important;
   font-size: 17.5px;
 }
 
 .navbar .nav-link.active{
-    font-weight: 550 !important;
-    color: #111C24 !important;
+    color: #2C597B !important;
 }
 
 .navbar-title {
-  font-weight: 500;
-  font-family: $font-family-heading !important;
-
-}
-
-.no-anchor.listing-title a {
-  font-weight: 600;
-  font-size: 22px;
-  color: #215784 !important;
-  font-family: $font-family-heading !important;
-}
-
-.listing-description a{
-  font-weight: 400 !important;
-}
-
-.quarto-post.image-right {
-  //border-bottom: 1px solid #19D86B;
-  //border-bottom: 1px solid #5DBECD; 
-}
-
-h1{
-  color: #215784 !important;
-  font-weight: 500 !important;
-  font-family: $font-family-heading !important;
-}
-
-h2, h3, h4 {
-  color: #215784 !important;
-  font-weight: 600 !important;
-  font-family: $font-family-heading !important;
-}
-
-.about-contents {
-  //font-weight: 300 !important; /* Decrease font weight */
-  font-family: inherit !important;
+  font-weight: 400;
 }
 
 .about-contents h4 {
-  color: #215784 !important;
+  //color: #215784 !important;
   font-weight: 600 !important;
-  font-family: $font-family-heading !important;
   //font-size: 20px !important;
 }
+
+
