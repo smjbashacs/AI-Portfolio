@@ -14,15 +14,11 @@ website:
       - href: index.qmd
         text: About
       
-
 format:
   html:
-    theme:
-      light: [cosmo, styles.scss]
-      #dark: [simplex, styles-dark.scss]
-
+    theme: [cosmo, styles.scss]
     highlight-style: a11y-dark
-    mainfont: system-ui
+    #mainfont: system-ui
     code-copy: true
     code-overflow: wrap
     #linestretch: 1.6
