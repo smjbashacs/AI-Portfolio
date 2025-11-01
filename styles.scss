@@ -1,25 +1,39 @@
 /*-- scss:defaults --*/
-body {
-  font-size: 18px !important;
+
+@import 'https://fonts.googleapis.com/css2?family=Helvetica&display=swap';
+$font-family: "Helvetica", sans-serif;
+$font-family-serif: "Helvetica", sans-serif;
+
+body{
+  //font-size: 17px !important;
+  color: #212529 !important;
 }
 
 .navbar {
-    padding-top: 10px !important;
-    padding-bottom: 10px !important;
+    //padding-top: 10px !important;
+    //padding-bottom: 10px !important;
     border-bottom: 1px solid #dee2e6 !important;
+    background-color: #F8F9FA !important;
+    //border-bottom: none !important;
 }
+
 
 .navbar .nav-link {
   //font-size: 17.5px;
 }
 
+
 .navbar .nav-link.active{
     color: #2C597B !important;
 }
 
+
 .navbar-title {
-  font-weight: 400;
+  font-weight: 500 !important;
+  font-size: 23px;
+  //color: #2C597B !important;
 }
+
 
 .about-contents h4 {
   //color: #215784 !important;
@@ -27,4 +41,10 @@ body {
   //font-size: 20px !important;
 }
 
+h1,h2,h3,h4 {
+  color: #343A40 !important;
+}
 
+.listing-description a{
+  color: #212529 !important;
+}
