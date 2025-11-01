@@ -18,7 +18,7 @@ format:
   html:
     theme: [cosmo, styles.scss]
     highlight-style: a11y-dark
-    #mainfont: system-ui
+    mainfont: system-ui
     code-copy: true
     code-overflow: wrap
     #linestretch: 1.6
