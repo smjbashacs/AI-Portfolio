@@ -5,24 +5,31 @@ project:
     port: 7778
 
 website:
-  title: "Shaik Basha: Portfolio"
+  title: "SHAIK M. JANI BASHA"
   navbar:
     #pinned: true
     right:
+      - text: "PRODUCT MANAGEMENT"
+        menu:
+          - href: projects.qmd
+            text: "CASE STUDIES"
+          - href: frameworks.qmd
+            text: "Frameworks"
+          - href: tutorials.qmd
+            text: "Tutorials"
       - href: projects.qmd
-        text: AI/ML Projects
+        text: AI/ML PROJECTS
       - href: index.qmd
-        text: About
+        text: ABOUT
       
 format:
   html:
-    theme: [cosmo, styles.scss]
+    theme: [litera, styles.scss]
     highlight-style: a11y-dark
-    mainfont: system-ui
+    mainfont: Barlow
     code-copy: true
     code-overflow: wrap
-    #linestretch: 1.6
-
+    #linestretch: 1.5
 
 execute:
   freeze: auto
