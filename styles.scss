@@ -1,5 +1,6 @@
 /*-- scss:defaults --*/
 
+//@import 'https://fonts.googleapis.com/css2?family=Alegreya+Sans:wght@400;500;550;600;700;800&display=swap';
 @import 'https://fonts.googleapis.com/css2?family=Alegreya+Sans&display=swap';
 $font-family-secondary: "Alegreya Sans", sans-serif;
 $font-family-serif: "Alegreya Sans", sans-serif;
@@ -9,13 +10,14 @@ body{
   font-size: 18px !important;
   //color: #212529 !important;
   //color: #333333 !important;
+  background-color: #FAFAFA !important;
 }
 
 /* ------------- Navigation bar styling starts ------------- */
 .navbar {
     padding-top: 12px !important;
     padding-bottom: 12px !important;
-    background-color: #fff !important;
+    background-color: #FAFAFA !important;
     border-bottom: 1px solid #979797 !important;
 }
 
@@ -38,6 +40,11 @@ body{
 /* ------------- Navigation bar styling ends ------------- */
 
 /* ------------- About page styling starts ------------- */
+.about-entity .quarto-title .h1{
+  font-size: 35px !important;
+  font-weight: 500 !important;
+}
+
 .about-contents h4 {
   font-weight: 600 !important;
   font-family: inherit !important;
@@ -52,12 +59,12 @@ body .quarto-about-trestles {
 }
 /* ------------- About page styling ends ------------- */
 
-/* ------------- Quarto title banner styling starts ------------- */
+/* ------------- Quarto title/banner styling starts ------------- */
 .quarto-title-banner {
-  padding-top: 30px !important;
+  padding-top: 25px !important;
   padding-bottom: 15px !important;
-  //background-color: rgba(51, 51, 51, 0.04);
-  background-color: #fff !important;
+  //background-color: rgba(51, 51, 51, 0.03) !important;
+  background-color: #FAFAFA !important;
   border-bottom: 1px solid #dee2e6 !important;
   margin-bottom: 0px !important;
 }
@@ -66,14 +73,21 @@ body .quarto-about-trestles {
   background-color: rgba(51, 51, 51, 0.03);
   //padding-bottom: 10px !important;
 }
-/* ------------- Quarto title banner styling ends ------------- */
+
+.quarto-title-block.page-full .title {
+  font-size: 40px !important;
+  color: #343A40 !important;
+  letter-spacing: -0.01em; /* letters closer */
+  line-height: 1.1; /* decrease line spacing (default is usually around 1.2 to 1.4) */
+}
+/* ------------- Quarto title/banner styling ends ------------- */
 
 /* ------------- POST related styling starts ------------- */
 .listing-description a{
   //color: #343A40 !important;
 }
 
-.listing-title{
+.listing-title {
   font-family: inherit !important;
 }
 
@@ -109,3 +123,4 @@ h1,h2,h3,h4 {
   margin-bottom: 0 !important;
 }
 /* ------------- Generic elements styling ends ------------- */
+
