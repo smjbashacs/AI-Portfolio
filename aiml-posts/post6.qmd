@@ -1,7 +1,17 @@
 ---
 title: "Text Generation"
-date: 2025-03-01
-categories: [NLP, DL]
+format:
+  html:
+    css: styles.scss
+    grid:
+      body-width: 900px
+date: 2025-03-05
+author: Shaik M. Jani Basha
+categories: [NATURAL LANGUAGE PROCESSING, GENERATIVE AI]
+thumbnail: image.png
+title-block-banner: true
+toc: true
+#page-layout: article
 ---
 
 This project deals with using ML algorithms to classify data points. We will be using Decision trees, Linear Regression, and Random forests.
