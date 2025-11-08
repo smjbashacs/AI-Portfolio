@@ -9,7 +9,7 @@ website:
   navbar:
     #pinned: true
     right:
-      - text: "PRODUCT MANAGEMENT"
+      - text: "Product Management"
         menu:
           - href: projects.qmd
             text: "CASE STUDIES"
@@ -18,15 +18,17 @@ website:
           - href: tutorials.qmd
             text: "Tutorials"
       - href: projects.qmd
-        text: AI/ML PROJECTS
+        text: AI/ML Projects
       - href: index.qmd
-        text: ABOUT
+        text: About
       
 format:
   html:
-    theme: [litera, styles.scss]
+    grid:
+      body-width: 900px
+    theme: [cosmo, styles.scss]
     highlight-style: a11y-dark
-    mainfont: Barlow
+    #mainfont: Barlow
     code-copy: true
     code-overflow: wrap
     #linestretch: 1.5
