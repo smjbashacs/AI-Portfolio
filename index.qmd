@@ -3,6 +3,8 @@ title: "Shaik Basha"
 format:
   html:
     css: styles.scss
+    grid:
+      body-width: 800px
 about:
   template: trestles
   image: profile.jpg
@@ -17,19 +19,34 @@ about:
       href: https://github.com
 ---
 
+
+
 Shaik Basha is a Senior Software Engineer, with extensive experience across multiple domains of Software Engineering like Machine Learning, Software Development, QA Automation, and DevOps
 
+#### 🎓 Education
+<div class="grey-box">
+  <strong> IIM Ahmedabad, Gujarat, India </strong><br>
+  MBA (Full-Time), 2026-27
+</div>
+<div class="grey-box">
+  <strong> IIT Gandhinagar, Gujarat, India </strong><br>
+  M.Tech in Computer Science (Full-Time), 2019-21
+</div>
+<div class="grey-box">
+  <strong> RVR & JC College of Engineering, AP, India </strong><br>
+  B.Tech in Computer Science (Full-Time), 2010-14
+</div>
 
-#### Education
-IIT Gandhinagar | Gujarat, India <br>
-M.Tech in Computer Science | Aug 2019 - June 2021<br>
-
-RVR & JC College of Engineering | Andhra Pradesh, India<br>
-B.Tech in Computer Science | Oct 2010 - April 2014<br>
-
-#### Experience
-Morgan Stanley | Manager (Software Engineering) | July 2021 - Dec 2023
-
-NCR Corporation | PS Quality Engineer 2 | Sept 2018 - July 2019
-
-Infosys Limited | SDET (QA AUtomation) | May 2014 - Sept 2018
+#### 💼 Work Experience
+<div class="grey-box">
+  <strong> Morgan Stanley, Bangalore, India </strong> <br>
+  Manager (S/W Engineering), July 2021 - Dec 2023
+</div>
+<div class="grey-box">
+  <strong> NCR Corporation, Hyderabad, India </strong> <br>
+  PS Quality Engineer 2, Sept 2018 - July 2019
+</div>
+<div class="grey-box">
+  <strong> Infosys, Hyderabad, India </strong> <br>
+  SDET (QA Automation), May 2014 - Sept 2018
+</div>
