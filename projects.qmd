@@ -1,15 +1,13 @@
 ---
 title: "AI/ML Projects"
 subtitle: Under Construction. Below are some dummy projects used for website design
-format:
-  html:
-    css: styles.scss
+
 listing:
   contents: aiml-posts
   type: default
   sort: "date desc"
   categories: true
-  
-page-layout: full
+
+#page-layout: article
 title-block-banner: true
 ---
