@@ -8,8 +8,8 @@ $font-family-serif: "Alegreya Sans", sans-serif;
 
 body{
   font-size: 18px !important;
-  //color: #212529 !important;
-  //color: #333333 !important;
+  //color: #343A40 !important;
+  color: #222 !important;
   //background-color: #FAFAFA !important;
 }
 
@@ -87,10 +87,15 @@ body .quarto-about-trestles {
 
 /* ------------- POST related styling starts ------------- */
 .listing-description a{
-  //color: #343A40 !important;
+  color: #222 !important;
 }
 
-.listing-title {
+.listing-title a{
+  color: #222 !important;
+  font-family: inherit !important;
+}
+
+.listing-title{
   font-family: inherit !important;
 }
 
@@ -107,7 +112,7 @@ body .quarto-about-trestles {
 
 /* ------------- Generic elements styling starts ------------- */
 h1,h2,h3,h4 {
-  color: #343A40;
+  color: #343A40 !important;
   font-family: $font-family-secondary !important;
 }
 
@@ -119,6 +124,7 @@ h1,h2,h3,h4 {
   border-top-right-radius: 4px;
   border-bottom-right-radius: 4px;
   font-family: $font-family-secondary !important;
+  color: #343A40 !important;
 }
 
 .grey-box p {
