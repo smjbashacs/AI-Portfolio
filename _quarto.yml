@@ -28,7 +28,7 @@ format:
       body-width: 900px
     theme: [cosmo, styles.scss]
     highlight-style: a11y-dark
-    #mainfont: Barlow
+    mainfont: Roboto
     code-copy: true
     code-overflow: wrap
     #linestretch: 1.5
