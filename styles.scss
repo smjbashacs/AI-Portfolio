@@ -1,16 +1,15 @@
 /*-- scss:defaults --*/
 
-@import 'https://fonts.googleapis.com/css2?family=Roboto:wght@300;350;400;500;550;600;700;800&display=swap';
+//@import 'https://fonts.googleapis.com/css2?family=Alegreya+Sans:wght@400;500;550;600;700;800&display=swap';
 @import 'https://fonts.googleapis.com/css2?family=Alegreya+Sans&display=swap';
-
 $font-family-secondary: "Alegreya Sans", sans-serif;
 $font-family-serif: "Alegreya Sans", sans-serif;
-//$font-color: #333333;
-$font-color: #343A40;
+//$font-color: rgba(51, 51, 51, .85);
+$font-color: #333333;
 //$link-color: #1F91C7;
 
 body{
-  font-size: 17.5px !important;
+  font-size: 18px !important;
   //color: #343A40 !important;
   color: $font-color !important;
   background-color: #FAFAFA !important;
@@ -37,8 +36,8 @@ body{
 }
 
 .navbar-title {
-  font-weight: 700 !important;
-  font-size: 18.5px;
+  font-weight: 600 !important;
+  font-size: 20px;
 }
 /* ------------- Navigation bar styling ends ------------- */
 
@@ -95,8 +94,7 @@ body .quarto-about-trestles {
 
 .listing-title a{
   color: $font-color !important;
-  //font-family: inherit !important;
-  //font-weight: 500 !important;
+  font-family: inherit !important;
 }
 
 .listing-title{
@@ -111,11 +109,6 @@ body .quarto-about-trestles {
   font-size: 16px !important;
   font-weight: 600 !important;
   font-family: inherit !important;
-}
-
-.quarto-listing-category .category {
-  font-size: 15.5px !important;
-  font-weight: 350 !important;
 }
 /* ------------- POST related styling ends ------------- */
 
