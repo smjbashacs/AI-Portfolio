@@ -25,28 +25,43 @@ Shaik Basha is a Senior Software Engineer, with extensive experience across mult
 
 #### 🎓 Education
 <div class="grey-box">
-  <strong> IIM Ahmedabad, Gujarat, India </strong><br>
+   <strong>
+    <a href="https://www.iima.ac.in/">IIM Ahmedabad</a>, Gujarat, India
+  </strong><br>
   MBA (Full-Time), 2026-27
 </div>
 <div class="grey-box">
-  <strong> IIT Gandhinagar, Gujarat, India </strong><br>
+  <strong> 
+    <a href="https://www.iima.ac.in/">IIT Gandhinagar</a>, Gujarat, India 
+  </strong><br>
   M.Tech in Computer Science (Full-Time), 2019-21
 </div>
 <div class="grey-box">
-  <strong> RVR & JC College of Engineering, AP, India </strong><br>
+  <strong> 
+    <a href="https://www.iima.ac.in/">RVR & JC College of Engineering</a>, 
+    AP, India 
+  </strong><br>
   B.Tech in Computer Science (Full-Time), 2010-14
 </div>
 
 #### 💼 Work Experience
 <div class="grey-box">
-  <strong> Morgan Stanley, Bangalore, India </strong> <br>
+  <strong> 
+    <a href="https://www.iima.ac.in/">Morgan Stanley</a>, Bangalore, India 
+  </strong> <br>
   Manager (S/W Engineering), July 2021 - Dec 2023
 </div>
 <div class="grey-box">
-  <strong> NCR Corporation, Hyderabad, India </strong> <br>
+  <strong> 
+    <a href="https://www.iima.ac.in/">NCR Corporation</a>, 
+    Hyderabad, India 
+  </strong> <br>
   PS Quality Engineer 2, Sept 2018 - July 2019
 </div>
 <div class="grey-box">
-  <strong> Infosys, Hyderabad, India </strong> <br>
+  <strong> 
+    <a href="https://www.iima.ac.in/">Infosys Limited</a>, 
+    Hyderabad, India 
+  </strong> <br>
   SDET (QA Automation), May 2014 - Sept 2018
 </div>
