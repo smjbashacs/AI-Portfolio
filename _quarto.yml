@@ -32,7 +32,9 @@ format:
   html:
     grid:
       body-width: 900px
-    theme: [simplex, styles.scss]
+    theme: 
+      light: [simplex, styles.scss]
+      dark: [cosmo, styles-dark.scss]
     highlight-style: a11y-dark
     #mainfont: Inter
     code-copy: true
