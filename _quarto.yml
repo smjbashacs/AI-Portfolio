@@ -9,26 +9,32 @@ website:
   navbar:
     #pinned: true
     right:
-      - text: "Product Management"
+      - icon: puzzle
+        text: "Product Management"
         menu:
           - href: projects.qmd
-            text: "CASE STUDIES"
+            text: "Case Studies"
           - href: frameworks.qmd
             text: "Frameworks"
           - href: tutorials.qmd
             text: "Tutorials"
-      - href: projects.qmd
+      - icon: robot
+        href: projects.qmd
         text: AI/ML Projects
-      - href: index.qmd
+      - icon: newspaper
+        href: projects.qmd
+        text: Blog
+      - icon: file-person
+        href: index.qmd
         text: About
       
 format:
   html:
     grid:
       body-width: 900px
-    theme: [cosmo, styles.scss]
+    theme: [simplex, styles.scss]
     highlight-style: a11y-dark
-    #mainfont: Barlow
+    #mainfont: Inter
     code-copy: true
     code-overflow: wrap
     #linestretch: 1.5
