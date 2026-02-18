@@ -34,7 +34,7 @@ format:
       body-width: 900px
     theme: 
       light: [simplex, styles.scss]
-      dark: [cosmo, styles-dark.scss]
+      #dark: [cosmo, styles-dark.scss]
     highlight-style: a11y-dark
     #mainfont: Inter
     code-copy: true
